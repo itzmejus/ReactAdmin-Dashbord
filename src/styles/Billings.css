@@ -1,0 +1,18 @@
+.small-card1-bg-color {
+  background: linear-gradient(to right, #ffbf96, #fe7096) !important;
+}
+.small-card2-bg-color {
+  background: linear-gradient(to right, #90caf9, #047edf 99%) !important;
+}
+.small-card3-bg-color {
+  background: linear-gradient(to right, #84d9d2, #07cdae) !important;
+}
+.global-bg-color {
+  background-color: #e1d2e4;
+}
+.payments-text-bg-color{
+    background-color: #efefef  !important;
+}
+.debit-image{
+    height: 150px;
+}
